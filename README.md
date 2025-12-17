@@ -6,6 +6,10 @@
 
 Various chat histories generated through LibreChat. The files indicate some basic setup through which the history was generated.
 
+### Instructions
+
+Various prompt instructions used to guide the chatbot behavior.
+
 ### Workbooks
 
 The specific workbooks that the chatbot will quiz students on. Each workbook contains the following:
