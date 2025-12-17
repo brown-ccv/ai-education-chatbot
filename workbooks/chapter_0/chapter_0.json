@@ -1,0 +1,28 @@
+{
+  "chapter": 0,
+  "topic": "Operational Model Basics",
+  "sections": [
+    {
+      "section": "Wazoos! Taken From Final Exam, 2023",
+      "instructions": "The following question will make use of both part A and part B in Figure 1 below.  Please note that part B is only representing part of an operational model where some stuff comes out of the Wazoos and Wallybags boxes and goes into boxes not shown (could be several!) and eventually goes into the Widgets box.  Panel B is showing part of an operational model from a factory that tries to make the same number of widgets each day.  A by-product of widget production is wazoos, which ultimately slow down widget production as they need to be cleared from the equipment.  Wallybags are added to the widget production process by factory workers when an alarm indicates that too few widgets are being made.",
+      "figure": "figure_1.png",
+      "questions": [
+        {
+          "question": "In panel A, what is the difference in the operational model when X is a minus vs when X is a plus? (That is, what does this operational model symbol mean?)"
+        },
+        {
+          "question": "In Panel B, what signs should be assigned at: A"
+        },
+        {
+          "question": "In Panel B, what signs should be assigned at: B"
+        },
+        {
+          "question": "In Panel B, what signs should be assigned at: C"
+        },
+        {
+          "question": "Given just what you know in the paragraph above, do you think the full operational model as described for B would include positive feedback loop(s), negative feedback loop(s), neither, or both?"
+        }
+      ]
+    }
+  ]
+}
