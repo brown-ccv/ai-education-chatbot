@@ -1,5 +1,19 @@
 # ai-education-chatbot
 
+## Repo
+
+### Chats
+
+Various chat histories generated through LibreChat. The files indicate some basic setup through which the history was generated.
+
+### Workbooks
+
+The specific workbooks that the chatbot will quiz students on. Each workbook contains the following:
+
+- The original workbook PDF file itself.
+- The referred images used in the workbook as "figure_x.png".
+- A corresponding JSON file with the questions and answers needed to quiz the students.
+
 ## Resources
 
 - [Google Drive Folder](https://drive.google.com/drive/folders/1FbfaajdsahYiRYbbweZBXs13Tjj3uNZV)
