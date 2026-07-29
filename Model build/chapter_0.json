@@ -1,0 +1,1201 @@
+{
+  "chapter": 0,
+  "topic": "Operational Model Basics",
+  "sections": [
+    {
+      "title": "Wazoos! Taken From Final Exam, 2023",
+      "instructions": "The following question will make use of both part A and part B in Figure 1 below. Please note that part B is only representing part of an operational model where some stuff comes out of the Wazoos and Wallybags boxes and goes into boxes not shown (could be several!) and eventually goes into the Widgets box. Panel B is showing part of an operational model from a factory that tries to make the same number of widgets each day. A by-product of widget production is wazoos, which ultimately slow down widget production as they need to be cleared from the equipment. Wallybags are added to the widget production process by factory workers when an alarm indicates that too few widgets are being made.",
+      "figure": "figure_1.png",
+      "questions": [
+        {
+          "question": "Q1. In panel A, what is the difference in the operational model when X is a minus vs when X is a plus? (That is, what does this operational model symbol mean?)",
+          "answer": "When X is a minus, you are doing set point – the value coming in (comparator). When X in a plus, you are doing set point + the value coming in (summator)"
+        },
+        {
+          "question": "Q2. In Panel B (see details above) what signs should be assigned at: A",
+          "answer": "-"
+        },
+        {
+          "question": "Q3. In Panel B (see details above) what signs should be assigned at: B",
+          "answer": "+"
+        },
+        {
+          "question": "Q4. In Panel B (see details above) what signs should be assigned at: C",
+          "answer": "-"
+        },
+        {
+          "question": "Q5. Given just what you know in the paragraph above, do you think the full operational model as described for B would include positive feedback loop(s), negative feedback loop(s), neither, or both?",
+          "answer": "Negative feedback loops"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Seuss Taken From Final Exam, 2014",
+      "instructions": "These control loop questions are inspired by Dr. Seuss's The Lorax! As usual, I'll tell you what you need to know. Go by what I say, not what you might know/recall from the story. The story is essentially a tale about the environment. It features the Once-ler, a greedy character inspired to maximize his own profits. The Once-ler gets greedier the more profits he has. He uses Truffula trees as the raw materials to create Thneeds (a product “which everyone needs”). Because everyone needs theeds, he can always sell all his theeds for profit. As the Once-ler generates more profits, he is able to expand his operations by building more factories, and thus using more raw materials. Then the Lorax, who “speaks for the trees,” appears and gets angry because the environment is being destroyed. The angrier he is, the less happy he is. When the Lorax isn't happy, he tries to save the environment by pointing things out to the Once-ler, in the hopes that the Once-ler will change his ways. (The story ends poorly for the environment, but just use the information I told you above to fill in the operational model that the Lorax is ideally trying to implement.)",
+      "figure": "figure_2.png, figure_3.png",
+      "questions": [
+        {
+          "question": "Q6. Determine the signs in the operational model to describe these aspects of the Once-ler's behavior: a",
+          "answer": "+"
+        },
+        {
+          "question": "Q7. Determine the signs in the operational model to describe these aspects of the Once-ler's behavior: b",
+          "answer": "+"
+        },
+        {
+          "question": "Q8. Determine the signs in the operational model to describe these aspects of the Once-ler's behavior: c",
+          "answer": "+"
+        },
+        {
+          "question": "Q9. Determine the signs in the operational model to describe these aspects of the Once-ler's behavior: d",
+          "answer": "+"
+        },
+        {
+          "question": "Q10. Determine the signs in the operational model to describe these aspects of the Once-ler's behavior: e",
+          "answer": "+"
+        },
+        {
+          "question": "Q11. Determine the signs in the operational model to describe these aspects of the Once-ler's behavior: f",
+          "answer": "+"
+        },
+        {
+          "question": "Q12. Is this an example of a positive or negative feedback loop?",
+          "answer": "Positive"
+        },
+        {
+          "question": "Q13. Determine the signs in the operational model to describe these aspects of the Lorax's behavior (+/-): a",
+          "answer": "+"
+        },
+        {
+          "question": "Q14. Determine the signs in the operational model to describe these aspects of the Lorax's behavior (+/-): b",
+          "answer": "-"
+        },
+        {
+          "question": "Q15. Determine the signs in the operational model to describe these aspects of the Lorax's behavior (+/-): c",
+          "answer": "-"
+        },
+        {
+          "question": "Q16. Determine the signs in the operational model to describe these aspects of the Lorax's behavior (+/-): d",
+          "answer": "-"
+        },
+        {
+          "question": "Q17. Determine the signs in the operational model to describe these aspects of the Lorax's behavior (+/-): e",
+          "answer": "-"
+        },
+        {
+          "question": "Q18. Determine the signs in the operational model to describe these aspects of the Lorax's behavior (+/-): f",
+          "answer": "-"
+        },
+        {
+          "question": "Q19. Is this an example of a positive or negative feedback loop? (Yes/No)",
+          "answer": "Negative"
+        }
+      ]
+    },
+    {
+      "title": "Osmolarity Taken from Final Exam 2015",
+      "instructions": "One property of the body that has to be carefully modulated is osmolarity, or how salty the blood is. Kidneys play an important role in maintaining osmolarity. (Note: This isn't a physiology class, and this diagram is simplified. Please complete the operational model based on the information provided to you here.) The set point for osmolarity is in the hypothalamus, which is also where osmoreceptor cells can sense salt level. When salt levels are too high, activity of these cells leads to the secretion of anti-diuretic hormone (ADH) from the posterior pituitary. ADH is carried in the blood and causes the kidneys to increase the amount of water retained by the body, thus lowering the amount of water excreted through urination. Keeping water in the body increases the blood volume in the body, which dilutes the concentration of salts in the blood. Below is an operational model of this system.",
+      "figure": "figure_4.png",
+      "questions": [
+        {
+          "question": "Q20. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q21. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q22. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "-"
+        },
+        {
+          "question": "Q23. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q24. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q25. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q26. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q27. Is this model an example of positive or negative feedback? (Positive/Negative)",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q28. What is the general term for the property of a system in which variables (like osmolarity) are regulated so that internal conditions remain stable and relatively constant?",
+          "answer": "Homeostasis"
+        },
+        {
+          "question": "Q29. How does a large open-loop gain help to achieve the property of the system described in the above question?",
+          "answer": "Because the closed-loop gain is G/(G+1), a large open loop gain gives you a closed loop gain near 1 which helps you achieve homeostasis (2 pts - don't need to include the formula)"
+        },
+        {
+          "question": "Q30. What is the drawback to very large open-loop gains?",
+          "answer": "Very large open loop gains lead to large, inaccurate values as you approach homeostasis. These can be dangerous for the system"
+        }
+      ]
+    },
+    {
+      "title": "Ant Foraging Taken from Exam 2, 2020",
+      "instructions": "This is a simplified description of ant foraging behavior. This is not an invertebrate behavior course, so please base your responses solely on what is included in this description. For simplicity purposes, I have left a lot out of this operational model. In general, we have looked at negative feedback loops that occur within a single organism. However, an ant colony is also a living system and operational models can describe the behavior of this type of system as well. Ants that find and consume food deposit a pheromone on their way from the food source back to the nest. The more pheromone present, the better able other ants will be to sense the pheromone. Once ants sense the pheromone, they are recruited as foragers. Foragers follow the pheromone trail back to the food. This behavior is best for the overall health of the ant society. At the same time, the more ants that are currently available to be recruited as foragers increases the odds that pheromone sensing will occur. However, if the pathway to the food becomes too crowded, it is not in the best interest of the colony to send more ants on that path, so ants stop depositing the pheromone. Figure 5 shows a simplified operational model describing this system of ant colony behavior. Please note that the “pheromone levels” box is indicating the amount of pheromone and is serving two purposes here – it is indicating how likely it is for a new ant to become a forager by sensing that pheromone, as well as indicating the overall pheromone deposited. Pheromone signals typically evaporate over time. Weather conditions can lead to different rates of evaporation or loss of the pheromone signal. For example, rain may lead to the pheromone signal washing away quickly. The model in Figure 5 does not account for this.",
+      "figure": "figure_5.png",
+      "questions": [
+        {
+          "question": "Q31. For positions 31A – 31G, indicate whether the appropriate sign for the operational model is a + or a -.",
+          "answer": "A: -, B: +, C: +, D: +, E: +, F: +, G: +"
+        },
+        {
+          "question": "Q32. Explain your response to 31B by describing how your response makes sense for ant crowd sizes above the ideal number of ants.",
+          "answer": "When the ant crowd size is too high, you will get a negative number coming out of the comparator. Because an increased crowd size lowers the amount of pheromone, you want to keep the negative sign, so B should be a +"
+        },
+        {
+          "question": "Q33. Does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither? [Just give the answer, no need to explain]",
+          "answer": "Both"
+        },
+        {
+          "question": "Q34. Describe how you would add rain into the operational model. You can either provide a drawing or describe where you would add input and/or connection(s) into and/or out of which box(es). Please also include the sign of the connection(s) [+ or -] and whether this would change your response to question 33 [yes or no is sufficient here].",
+          "answer": "Rain would be an arrow leading into the pheromone levels box with a minus sign. [Using the word “perturbation” is optional.] No"
+        }
+      ]
+    },
+    {
+      "title": "Blood Pressure Taken from Exam 3, 2014",
+      "instructions": "Fun with operational models! (Note: This isn't a general physiology class, so this is grossly simplified. Your answers should reflect what I tell you in the question.) One important physiological property is blood pressure. It is important to maintain blood pressure levels in a safe range. High blood pressure can be dangerous to the heart, while low blood pressure can prevent oxygen from reaching the organs of the body through the capillaries. The body's own means to regulate arterial blood pressure (blood pressure in the arteries) is not completely understood. Furthermore, there are multiple aspects to this regulation, some including the kidneys. For this question, we will only consider part of the regulatory system (and ignore the kidneys.) Blood pressure is sensed by baroreceptors. Baroreceptors are mechanical receptors that can sense the stretch of blood vessels (the higher the pressure, the more stretch, so the larger the response from the receptor). Baroreceptors send their input to the medulla, which connects to the autonomic nervous system to modify heart rate and force and to constrict blood vessels. (Blood pressure increases with increasing blood flow or force, and the force of blood flow increases as blood vessel diameter decreases.) Let's consider the operational model for this system (Fig 6).",
+      "figure": "figure_6.png",
+      "questions": [
+        {
+          "question": "Q35. The value at point a is the ideal blood pressure. What do we call this value?",
+          "answer": "Set point"
+        },
+        {
+          "question": "Q36. Where are the neurons that represent your answer to the prior question (a) likely located?",
+          "answer": "Medulla"
+        },
+        {
+          "question": "Q37. Fill in the correct sign in the operational model at the location indicated (+ or -): b",
+          "answer": "-"
+        },
+        {
+          "question": "Q38. Fill in the correct sign in the operational model at the location indicated (+ or -): c",
+          "answer": "+"
+        },
+        {
+          "question": "Q39. Fill in the correct sign in the operational model at the location indicated (+ or -): d",
+          "answer": "-"
+        },
+        {
+          "question": "Q40. Fill in the correct sign in the operational model at the location indicated (+ or -): e",
+          "answer": "+"
+        },
+        {
+          "question": "Q41. Fill in the correct sign in the operational model at the location indicated (+ or -): f",
+          "answer": "-"
+        },
+        {
+          "question": "Q42. Fill in the correct sign in the operational model at the location indicated (+ or -): g",
+          "answer": "+"
+        },
+        {
+          "question": "Q43. Fill in the correct sign in the operational model at the location indicated (+ or -): h",
+          "answer": "+"
+        },
+        {
+          "question": "Q44. Fill in the correct sign in the operational model at the location indicated (+ or -): i",
+          "answer": "+"
+        },
+        {
+          "question": "Q45. True or False: This operational model contains a negative feedback loop.",
+          "answer": "True"
+        },
+        {
+          "question": "Q46. True or False: This operational model contains a positive feedback loop.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "title": "Tree Frogs Taken from Exam 3, 2015",
+      "instructions": "Fun with operational models! (Note: This isn't an endocrinology class, so this question is somewhat simplified. Please answer the question given the information provided to you.) Burmeister and Wilczynski (Brain, Behav. Evol., 2005) sought to understand the interplay between physiological state and external cues in the reproductive behavior of green treefrogs. In the green treefrogs, mating calls are an important regulator of reproductive behavior and physiology. External cues are used by treefrogs to appropriately time reproduction. These seasonal cues can influence the activity of gonadotropin-releasing hormone (GnRH) neurons to increase GnRH release. Additionally, hearing mating calls from other treefrogs ultimately leads to a change in androgen levels (as released by the gonads). Androgens, in turn, lead to an increase in the production of mating calls, linking the behavioral output of communication with the regulation of the endocrine system. GnRH neurons are able to regulate androgen levels because release of GnRH leads to release of gonadotropin (GT) from the pituitary. GT is a hormone that leads to androgen release. GnRH neurons also sense androgen levels, and can decrease their activity when these levels are too high. Furthermore, androgens can directly reduce the release of GT. One aspect of this study was to determine the effect of mating calls on androgen levels. The chorus group showed a change significantly different from 0, while the tones group did not show a significantly different change in androgen levels.",
+      "figure": "figure_7.png, figure_8.png",
+      "questions": [
+        {
+          "question": "Q47. Does hearing mating calls from other treefrogs lead to an increase, decrease, or no change in androgen levels?",
+          "answer": "Increase. This is because the “Chorus” condition caused an increase in androgen concentration, while the “Tones” (control) condition did not."
+        },
+        {
+          "question": "Q48. While the exact nature of the seasonal cues that modulate this system are unknown, temperature may be one of the important cues. The brain area where these GnRH neurons are located is the same brain area where the temperature regulating neurons we discussed are located. What brain area is this? (You can give the general brain area, the specific sub-nucleus is not necessary.)",
+          "answer": "Hypothalamus (pre-optic nucleus of hypothalamus = OK)"
+        },
+        {
+          "question": "Q49. The value at point A is the ideal level of GnRH. What do we call this value?",
+          "answer": "Set point"
+        },
+        {
+          "question": "Q50. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q51. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "-"
+        },
+        {
+          "question": "Q52. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q53. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q54. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q55. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q56. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q57. True or False: This operational model contains a negative feedback loop.",
+          "answer": "True"
+        },
+        {
+          "question": "Q58. True or False: This operational model contains a positive feedback loop.",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Kidneys, Part 2 Taken From Final Exam 2019",
+      "instructions": "The amount of water in the blood must stay relatively constant to prevent cell damage through osmosis. Kidneys play an important role in maintaining water balance. (Note: This isn't a physiology class, and this diagram is simplified. Please complete the operational model based on the information provided to you here. Also note that this looks like an old exam question, but it's not the same as that question!) Water is gained and lost in multiple ways including drinking and eating, the gain of water through cellular respiration, sweating, evaporation, feces and urine. When the hypothalamus senses low water levels, a signal is sent from the hypothalamus to activate the pituitary to release antidiuretic hormone (ADH). ADH travels in the blood to the kidneys where it activates the tubules which results in the reabsorption of water into the blood, decreasing the amount lost through urination.",
+      "figure": "figure_9.png",
+      "questions": [
+        {
+          "question": "Q59. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "+"
+        },
+        {
+          "question": "Q60. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q61. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q62. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q63. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q64. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q65. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q66. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q67. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q68. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q69. Does this operational model contain positive feedback loops, negative feedback loops, neither, or both? (Positive/Negative/Neither/Both)",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q70. Where is the set point for blood water content?",
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "Q71. The drug Ecstasy increases the amount of ADH. Do you expect someone taking ecstasy to urinate more or less? (More/Less)",
+          "answer": "Less"
+        },
+        {
+          "question": "Q72. Explain your response to the previous question by referring to the operational model.",
+          "answer": "Because ecstasy increases ADH, the kidney tubules will become more active (1), and will therefore reabsorb more water (1), which means there will be less urine"
+        }
+      ]
+    },
+    {
+      "title": "Calcium Taken from Exam 3, 2016",
+      "instructions": "(This isn't an endocrinology class, so this question is somewhat simplified. Please answer the question given the information provided to you.) As we know from neuroscience, calcium is an incredibly important ion for biological function. Our bodies try to maintain a calcium level in the range of approximately 9-11 mg per 100mL of blood. There are calcium sensors in both the thyroid and parathyroid glands. Cells in the thyroid sense calcium and activate the gland when calcium levels are high. This leads to the release of the hormone calcitonin which stimulates calcium storage into bones and controls the kidneys to allow calcium to be excreted through urine. Calcium stored in bones is not in the blood. Cells in the parathyroid also sense calcium and activate the gland when calcium levels are low. This leads to the release of parathyroid hormone (PTH) which causes bones to release calcium back into the blood and increases the uptake of calcium (back into the body, instead of excreted) via the kidneys and intestines. Let's consider the operational model. (Note the letter goes with the arrowhead it is closest to.)",
+      "figure": "figure_10.png",
+      "questions": [
+        {
+          "question": "Q73. What is the controlled variable that this system is regulating?",
+          "answer": "Blood calcium levels"
+        },
+        {
+          "question": "Q74. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q75. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q76. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q77. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q78. Fill in the correct sign in the operational model at the location indicated (+ or -): E (Calcitonin -> Kidney)",
+          "answer": "-"
+        },
+        {
+          "question": "Q79. Fill in the correct sign in the operational model at the location indicated (+ or -): F (PTH -> Bone)",
+          "answer": "-"
+        },
+        {
+          "question": "Q80. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q81. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q82. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "-"
+        },
+        {
+          "question": "Q83. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q84. Does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither? (Positive/Negative/Both/Neither)",
+          "answer": "Negative"
+        }
+      ]
+    },
+    {
+      "title": "pH (Can't figure out which exam this was on)",
+      "instructions": "(This isn't a physiology class, so this question is somewhat simplified. Please answer the question given the information provided to you.) An important property of blood is its degree of acidity or alkalinity. Acidity and alkalinity are indicated on the pH scale, which ranges from 0 (strongly acidic) to 14 (strongly basic, or alkaline). Blood is normally slightly alkaline, with a pH close to 7.4. The body must regulate blood pH around this value because enzymes, which carry out important biochemical reactions, optimally function at this pH. One way to modulate pH is via the phrenic nerve, which controls the muscles involved in breathing. When chemoreceptors in the medulla oblongata sense a pH above 7.4, they signal central respiratory centers to decrease activation of motor neurons in the phrenic nerve, which receives contributions from spinal nerves C3 – C5. This reduces respiratory muscle activity, hypoventilating the lungs (slower breaths, smaller air volumes). During hypoventilation, the rate of carbon dioxide (CO2) removal from the blood slows. With more CO2 in blood, more carbonic acid (H2CO3) is produced and pH moves back toward 7.4. Regulation happens in the kidneys, too. If the kidneys sense a pH above 7.4, they will reduce secretion of H+. Secretion is the active removal of H+ from the blood into the urine. Reduced secretion ultimately results in higher blood [H+], lowering pH, thus returning blood pH closer to 7.4. Upon sensing a pH above 7.4, the kidneys will also excrete more bicarbonate (HCO3-) into the urine by decreasing HCO3- reabsorption. HCO3- reabsorption from the kidney into the blood increases blood [HCO3-], raising blood pH since HCO3- is alkaline. Excreting more HCO3- into the urine by reabsorbing less back into blood has the opposite effect, returning blood pH to the desired value. Let's consider the operational model for this system.",
+      "figure": "figure_11.png",
+      "questions": [
+        {
+          "question": "Q85. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "+"
+        },
+        {
+          "question": "Q86. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q87. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q88. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q89. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q90. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q91. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q92. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q93. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "-"
+        },
+        {
+          "question": "Q94. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q95. Does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither? (Positive/Negative/Both/Neither)",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q96. Please provide the definition of a set point and what the set point is for this model.",
+          "answer": "Set point is the desired value of the system. In this case, it is 7.4"
+        },
+        {
+          "question": "Q97. In this model, where are the comparators physically located?",
+          "answer": "Medulla"
+        }
+      ]
+    },
+    {
+      "title": "E. Coli Taken from Assessment 5, 2021",
+      "instructions": "When working on this operational model, use the information that I provide. You may know more about this system from a biology or genetics class, but only use what is provided here. Note that set point is used a bit oddly here (maybe you can figure out what's odd about it). Just go with it, don't overthink. You will assign the +'s and -'s into the operational model provided on the other sheet to explain the lactose metabolism system in E. coli and other enteric bacteria. The basic idea for the control system is that you don't want to produce the enzyme to metabolize lactose if there's low lactose around, or if there is a preferable energy source available, like glucose. The lac gene encodes for a few things including the one we care about here, β-galactosidase (β-gal) which hydrolyzes (breaks down) the lactose. The lac gene only transcribes β-gal when the lac operon is activated. To start the process of metabolizing lactose, an allolactose molecule (something similar to lactose) binds to the lac repressor protein. The lac repressor protein stops the transcription of the lac gene, but cannot do this when its bound. When it isn't bound, RNA polymerase can bind to the gene, which turns on the lac operon. If there is any glucose available, E. coli prefer to metabolize glucose over lactose. When glucose levels decrease, adenylyl cyclase is active (it is inactive under high glucose levels). Adenylyl cyclase leads to the production of cAMP. cAMP binds to the catabolite activator protein (CAP) creating cAMP-CAP complexes. These cAMP-CAP complexes bind to the CAP binding sites. When this happens, RNA polymerase binds tightly. Please select only one choice for each of the following questions.",
+      "figure": "figure_12.png",
+      "questions": [
+        {
+          "question": "Q98. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q99. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q100. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "-"
+        },
+        {
+          "question": "Q101. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q102. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q103. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q104. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q105. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q106. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q107. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "+"
+        },
+        {
+          "question": "Q108. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "+"
+        },
+        {
+          "question": "Q109. Fill in the correct sign in the operational model at the location indicated (+ or -): L",
+          "answer": "+"
+        },
+        {
+          "question": "Q110. Fill in the correct sign in the operational model at the location indicated (+ or -): M",
+          "answer": "+"
+        },
+        {
+          "question": "Q111. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q112. True or False: High glucose levels lead to a decrease in lactose levels.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "title": "Iron Taken from Assessment 5, 2022",
+      "instructions": "When working on this operational model, use the information that I provide. You may know more about this system from a biology class, but only use what is provided here. You will assign the +'s and -'s into the operational model provided on the other sheet to explain the control of iron levels in the cells of non-graminaceous plants. (Most herbaceous plants, except grasses, are non-graminaceous.) Plant cells use intracellular iron when they engage in important processes like photosynthesis or generating energy from mitochondrial activity. However, too much iron can be toxic to the cells. These cells strive to maintain an ideal, homeostatic level of iron (Fe2+) in the cytoplasm of the cell. When there isn't enough iron, FIT, a transcription factor, increases the production of an ATPase, which leads to protons (H+) being secreted from the cell, increasing the extracellular levels of H+. This leads to Fe3+ entering the cytoplasm of the cell. Once inside the cell cytoplasm, the Fe3+ can be converted to Fe2+. FIT has other effects, as well. For example, it also activates IRT1 transporters which move Fe2+ into the cell. Some researchers think that high levels of intracellular Fe2+ lead to a decrease in IRT1 transporters, but the data are inconclusive (so I used a dotted line for this in the operational model). Please select only one choice for each of the following questions.",
+      "figure": "figure_13.png",
+      "questions": [
+        {
+          "question": "Q113. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "+"
+        },
+        {
+          "question": "Q114. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q115. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q116. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q117. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q118. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q119. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q120. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q121. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q122. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q123. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q124. Fill in the correct sign in the operational model at the location indicated (+ or -): L",
+          "answer": "-"
+        },
+        {
+          "question": "Q125. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q126. True or False: Researchers have created plant cells that overexpress (have too much) IRT1. We would expect high levels of iron in these cells.",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Iron Part 2 Taken From Final Exam 2018",
+      "instructions": "(This isn't a physiology class, so this question is somewhat simplified. Please answer the question given the information provided to you.) Maintaining appropriate levels of iron is important for bodily function, including brain function. Iron comes from the diet. Activity in the small intestine absorbs the iron, which leads to activation of the liver. The liver allows iron to bind to blood plasma, and be available in the circulatory system for use by various organs, including the brain. When blood is available in the plasma, activation of bone marrow tissue allows for hemoglobin production, leading to red blood cells. These red blood cells can subsequently be broken down by macrophages to release iron back into the plasma. Hepcidin is regulated by iron demand from the tissues of the body, as sensed by the liver. (What the liver does to blood plasma levels is the same as what the liver does to hepcidin levels for our purposes.) Figure 14 shows the operational model.",
+      "figure": "figure_14.png",
+      "questions": [
+        {
+          "question": "Q127. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "+"
+        },
+        {
+          "question": "Q128. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q129. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q130. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q131. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q132. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q133. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q134. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q135. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q136. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "+"
+        },
+        {
+          "question": "Q137. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q138. Does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither? (Positive/Negative/Both/Neither)",
+          "answer": "Both"
+        },
+        {
+          "question": "Q139. Please provide the definition of a set point and what the set point is for this model.",
+          "answer": "Set point is the desired value of the control system (1) Here it is set by hepcidin level (1)"
+        },
+        {
+          "question": "Q140. In this model, where is the comparator physically located?",
+          "answer": "Liver"
+        }
+      ]
+    },
+    {
+      "title": "Tryptophan Production System in E. coli Bacteria. Taken from 2021 exam 5",
+      "instructions": "You will assign the +'s and -'s into the operational model provided on the other sheet to explain the tryptophan production system in E. coli bacteria. The basic idea for the control system is that you don't want to make tryptophan if there's already tryptophan in the environment. The trp operon is a group of genes that gets transcribed together and there are lots of parts to the operon. Ultimately, the transcription of the trp operon leads to the production of tryptophan. We are only going to focus on some of them. The trp operon is regulated in two ways. Upstream of the promoter for the trp operon is the trpR gene which is always transcribed and translated at low levels (regardless of the presence of tryptophan). When tryptophan is around, tryptophan binds to the trpR protein. This tryptophan/trpR complex can bind to the trp gene at a location called the operator. When the tryptophan/trpR complex is bound to the operator, RNA polymerase cannot bind to the trp gene and the operon does not get transcribed. Therefore, tryptophan is not produced. Also, there is a segment of DNA between the operator and the operon called trpL (L is for leader). The leader encodes a short polypeptide and an attenuator sequence. When the attenuator sequence gets transcribed, it can make different hairpin structures. Due to details way outside of the scope of this class, if there's a lot of tryptophan around, the leader gets translated quickly. If there isn't a lot around, the leader gets translated slowly. The speed of transcription and translation of the leader affects which hairpin structure the attenuator sequence makes. Importantly, when the leader is translated quickly, the attenuator makes a terminator hairpin. This terminator hairpin reduces the expression of the trp operon. Write positive or negative for the following.",
+      "figure": "figure_15.png",
+      "questions": [
+        {
+          "question": "Q141. Fill in the correct sign in the operational model at the location indicated (positive or negative): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q142. Fill in the correct sign in the operational model at the location indicated (positive or negative): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q143. Fill in the correct sign in the operational model at the location indicated (positive or negative): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q144. Fill in the correct sign in the operational model at the location indicated (positive or negative): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q145. Fill in the correct sign in the operational model at the location indicated (positive or negative): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q146. Fill in the correct sign in the operational model at the location indicated (positive or negative): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q147. Fill in the correct sign in the operational model at the location indicated (positive or negative): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q148. Fill in the correct sign in the operational model at the location indicated (positive or negative): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q149. Fill in the correct sign in the operational model at the location indicated (positive or negative): I",
+          "answer": "-"
+        },
+        {
+          "question": "Q150. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q151. True or False: Fast translation of trpL leads to more tryptophan.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "title": "Rice Toxins Taken from Assessment 1, 2023",
+      "instructions": "You will assign the +'s and -'s into the operational model provided on the other sheet to explain the control of stress caused by Trivalent chromium [Cr(III)] on toxicity in rice. Cr(III) is an environmental toxin. Particularly, when Cr(III) gets into the shoots of the rice, it can affect the health of the plant, and it is also toxic to those who consume the rice growing on the shoots of the plant. There is a negative feedback loop used by the rice plant to help limit these effects. The plant does this by limiting the amount of Cr(III) that can move from the plant roots to the plant shoots. This idea can be a little confusing so I am going to say it another way. Specifically, the plant wants to maintain high levels of Cr(III) in the roots because when the level in the roots gets too low, that suggests that there is too much Cr(III) in the plant shoots, which can be damaging to the plant. (But if Cr(III) levels get too high in the roots, the plant may end up in a situation where it has to let some go to the shoots). To do this, the plant makes use of Silicon (Si). Si is good for plant growth, particularly in rice. Cr(III) in the root reduces the size of the Si particles and increases the concentration of the Si particles in the plant root. Si can enter the cell walls of the plant cells (and this is more likely to happen when the particles are smaller and/or there are more particles). Once the Si is in the plant walls, it blocks the entry of metal ions (like Cr(III)) into the cells and inhibits the diffusion of these metals in the apoplasts. This diffusion in the apoplasts is how the metals would move from the roots to the shoots.",
+      "figure": "figure_16.png",
+      "questions": [
+        {
+          "question": "Q152. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q153. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q154. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "-"
+        },
+        {
+          "question": "Q155. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q156. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q157. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q158. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q159. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q160. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q161. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q162. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q163. True or false: Chromium contamination is a big issue in several parts of the world including India, East Africa, China, and South America. Another consequence of this loop / operational model is that Si should not be used in fertilizers in rice fields in these areas.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "title": "Clouds Taken from Assessment 1b, 2023",
+      "instructions": "Let's talk about clouds! Clouds are involved in interesting feedback loops related to the temperature of the planet. Assume here that there is a set point for moisture in the atmosphere. As the Earth warms, you get more moisture. When moisture levels rise, you get more clouds (e.g. more cloudiness). An increase in cloud cover increases the albedo or sunlight reflected away from the earth due to the clouds. The less sunlight/sun energy reaching earth, the less solar radiation reaching the earth, and the less energy retained by the earth. When solar energy is retained, temperature increases. Also, the moisture itself (as water vapor) is a powerful greenhouse gas. Greenhouse gases prevent radiation from leaving the atmosphere. Therefore, this radiation is maintained on Earth.",
+      "figure": "figure_17.png",
+      "questions": [
+        {
+          "question": "Q164. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q165. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q166. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q167. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q168. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q169. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q170. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q171. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q172. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q173. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "+"
+        },
+        {
+          "question": "Q174. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q175. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Both"
+        },
+        {
+          "question": "Q176. True or False: The use of fossil fuels is another way to increase greenhouse gases. (You can imagine this as a perturbation in the model.) Based on the operational model, an increase in fossil fuels would lead to an increase in moisture levels.",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Stem Cell Growth Taken from Assessment 1c, 2023",
+      "instructions": "You will assign the +'s and -'s into the operational model provided on the other sheet to explain the control of plant shoot stem cells, in a region called the meristem, in Arabidopsis (Arabidopsis are a small flowering plant that are a common model organism in plant biology.) The basic idea is that the control system needs to regulate the amount of activity in the meristems to maintain a small population of stem cells that responds to changing growth rates. Note that the set point in this model is NOT a biologically relevant feature of the plant meristem. This is slightly different than most of the practice examples. I added the set point idea to make this similar to what we saw in class. I want you to imagine that the set point exists for WUS levels. Use the information in the description below to figure out the signs coming into and out of this theoretical element in the loop. Read carefully and use logical reasoning skills. Stem cells secrete a peptide called CLV3. The more stem cell activity, the more this peptide is secreted. CLV3 activates CLV1 which starts a complex signal cascade. Part of this cascade includes autophosphorylation of CLV1 (that is, CLV1 activation can lead to more CLV1 activation). Additionally, the presence of CLV1 decreases the expression of WUS. WUS is a protein that moves within the meristem and increases stem cell activity. (The more WUS, the more stem cell activity.) CLV1 also decreases the activity of a protein receptor called BAM. Researchers have recently found that BAM is the receptor for a protein called CLE40 that also affects WUS levels. [CLE40 binding to BAM activates BAM]. In animals that don't have the gene for CLE40, shoot meristems do not grow properly. They remain very small (i.e. stem cell activity is low). This process is indirect. BAM binding leads to the increase of an unknown downstream signal, X. X increases WUS activity. However, because we do not want stem-cell growth to get out of control, high WUS levels act to decrease CLE40 levels. The regulation of stem cells via CLV3 takes place in part of the meristem where the stem cells divide, called the central zone. After they divide, they go to the peripheral zone, where they are further activated and differentiate via the CLE40 pathway. These areas basically have two different control loops that are connected, as shown in the figure.",
+      "figure": "figure_18.png",
+      "questions": [
+        {
+          "question": "Q177. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "+"
+        },
+        {
+          "question": "Q178. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q179. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q180. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q181. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q182. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q183. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q184. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q185. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "-"
+        },
+        {
+          "question": "Q186. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q187. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Both"
+        },
+        {
+          "question": "Q188. True or False: High levels of WUS lead to an increase in CLV3 activity.",
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Angiogenesis Taken from assessment 1, 2024",
+      "instructions": "When working on this operational model, use the information that I provide. You may know more about this system from another class, but only use what is provided here. Also, please note that Dr. M is running out of ideas for systems for these questions, so generative AI was used to assist in the writing of this question and some of the sentences are directly from chatGPT. You will assign the +'s and -'s into the operational model provided on the other sheet to explain the control of angiogenesis. Angiogenesis is the process through which new blood vessels are formed from pre-existing vessels. It is regulated by several factors. One main driver in this process is vascular endothelial growth factor (VEGF). An increase in VEGF promotes the growth and activation of endothelial cells, leading to the formation of tip cells and an increase in the number of stalk cells. Tip cells migrate and guide the elongation of new blood vessels, while stalk cells, which also increase in response to high VEGF levels, create the body of the growing blood vessels. The more blood vessels present, the more oxygen that can be supplied to the tissue. When oxygen is in sufficient supply, the amount of VEGF is reduced. Additionally, angiopoietins can have differing effects on blood vessels. Angiopoietin-1 works to taper new blood vessel growth by stabilizing existing blood vessels. Angiopoietin-2 decreases the stabilizing effects of Angiopoietin-1. Angiopoietin-2 expression increases when VEGF levels are high.",
+      "figure": "figure_19.png",
+      "questions": [
+        {
+          "question": "Q189. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q190. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q191. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "-"
+        },
+        {
+          "question": "Q192. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q193. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q194. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q195. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q196. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q197. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q198. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "-"
+        },
+        {
+          "question": "Q199. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q200. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q201. True or False: Hypoxia leads to low oxygen levels. Under conditions of hypoxia, blood vessel formation would be halted.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "title": "GLP1 Taken from exam 1, 2025",
+      "instructions": "When working on this operational model, use the information that I provide. You may know more about this system from another class, but only use what is provided here. This model is overly simplified because the underlying biology is quite complex. Only go with what is said in the description! Generative AI was used to assist in the writing of this question (to help me explain and simplify the system). You will assign the +'s and -'s into the operational model provided on the other sheet to explain the control of glucose and the role of GLP-1 in maintaining glucose levels. GLP-1 pharmaceuticals including Ozempic and Wegovy (generic name: semaglutide) were originally developed to control glucose levels for patients with Type 2 diabetes. Glucose levels need to be maintained within a particular range so that cells can operate properly. Glucose levels are sensed in several places, but the two places we will concern ourselves with for this question are the pancreas and the hypothalamus. When glucose levels are too high, glucose enters β-cells in the pancreas, activating them to produce more ATP. This ATP closes K+ channels. (Please remember that open K+ channels lead to hyperpolarization as the K+ leaves the cell. Closing the K+ channels would have the opposite effect.) As the cell depolarizes, voltage-gated Ca++ channels open, and this Ca++ triggers the exocytosis of insulin. High insulin levels lower glucose levels (through a process I didn't include in the model). High insulin also increases β-cell activity. High glucose levels also activate the hypothalamus. This activation lowers the activity of the sympathetic nervous system. The sympathetic nervous system decreases β-cell activity. Additionally, the sympathetic nervous system opposes activity of the parasympathetic nervous system. Parasympathetic activation increases β-cell activity. But where is GLP-1 in this process? When a subject eats a meal, the glucose in that meal that's absorbed into the blood increases glucose levels. Eating a meal also increases gut nutrients. Gut nutrients lead to the production of GLP-1. GLP-1 also increases activity of β-cells. The meal glucose is indicated with a dotted line because it acts as a perturbation to the system.",
+      "figure": "figure_20.png",
+      "questions": [
+        {
+          "question": "Q202. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "+"
+        },
+        {
+          "question": "Q203. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q204. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q205. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q206. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q207. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q208. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q209. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q210. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "-"
+        },
+        {
+          "question": "Q211. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "+"
+        },
+        {
+          "question": "Q212. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q213. Fill in the correct sign in the operational model at the location indicated (+ or -): L",
+          "answer": "-"
+        },
+        {
+          "question": "Q214. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Both"
+        },
+        {
+          "question": "Q215. True or False: Based on this model, semaglutide is likely a GLP-1 receptor antagonist.",
+          "answer": "False"
+        }
+      ]
+    },
+    {
+      "title": "GLP1 Again Taken from assessment 1r, 2025",
+      "instructions": "This model is related to the model from Assessment 1i. You will assign the +'s and -'s into the operational model provided on the other sheet to explain the control of glucose and the role of GLP-1 in maintaining glucose levels. GLP-1 pharmaceuticals including Ozempic and Wegovy (generic name: semaglutide) were originally developed to control glucose levels for patients with Type 2 diabetes. Glucose levels need to be maintained within a particular range so that cells can operate properly. Glucose levels are sensed in several places, in this question we will only focus on the pancreas. In the pancreas, there are multiple cell types that respond to changes in glucose levels. While Assessment 1i focused on β-cells, here we will focus on α-cells. When glucose levels are too low, less glucose will enter the α-cells, and there will be less metabolism within the cell. This decreased metabolism means there is less ATP. Decreased ATP levels help K+ channels to remain open. (Please remember that open K+ channels lead to hyperpolarization as the K+ leaves the cell.) α-cells are pretty nifty! They are not neurons, but they do fire action potentials! However, they need to be hyperpolarized to allow the action potentials. (Less depolarized means more excitable, so this hyperpolarization leads to more action potentials). These action potentials lead to spikes of Ca++. The Ca++ spikes result in glucagon release. Glucagon increases glucose levels. On assessment 1i, we saw that insulin also affects glucose (a main point of the Assessment 1i loop was that high glucose ultimately leads to more insulin, which decreases glucose levels). We also saw that insulin leads to higher β-cell activation. β-cells regulate α-cells by suppressing their electrical activity (reducing action potentials). But where is GLP-1 in this process? GLP-1 inhibits α-cell action potentials!",
+      "figure": "figure_21.png",
+      "questions": [
+        {
+          "question": "Q216. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q217. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "-"
+        },
+        {
+          "question": "Q218. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q219. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q220. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "+"
+        },
+        {
+          "question": "Q221. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q222. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q223. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "+"
+        },
+        {
+          "question": "Q224. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q225. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "+"
+        },
+        {
+          "question": "Q226. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q227. As drawn, does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither?",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q228. True or False: Based on this model, taking GLP-1 agonists could lead to hypoglycemia (not enough glucose).",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "title": "Feeding Behavior Taken from Exam 3, 2016",
+      "instructions": "(Please note that this is not a physiology class. This model is based on several theories related to bone formation, and is not meant to be an exhaustive description of the process. It is highly simplified so that you can answer the questions. Please use the information provided here to develop the operational model.) Originally proposed by Frost (Anat. Rec., 1987 – reviewed in Rauch and Schoenau Ped. Res., 2001), bones may be subject to regulatory feedback to maintain bone strength. Bone strength can be measured as a weak bone will deform less than a strong one. Bones grow to become stronger and resist strain. Enhanced strain and loading on a bone leads to canalicular fluid flow in a weak bone. Canalicular fluid flow refers to the movement of fluid through the small spaces within a bone. Osteocytes are bone cells that can monitor the canalicular fluid flow within the bone. Low flow reduces the production of nitrous oxide (NO) by osteocytes, leading to their death. Death of osteocytes attracts osteoclasts, which break down bone. Enhanced canalicular flow causes osteocytes to increase NO production, which reduces osteoclast activity. Increased strain on bone (and thus an increase in fluid flow) leads to a decrease in the release of sclerostin. Sclerostin leads to decreased activity of osteoblasts. Osteoblasts are cells that grow bone. Figure 1 shows the operational model. It turns out that leptin has a role in bone development as well as appetite. Leptin inhibits serotonergic neurons that synapse in the ventromedial hypothalamus. The neurons in the ventromedial hypothalamus also decrease activation of the sympathetic nervous system and stimulate osteoblasts.",
+      "figure": "figure_22.png",
+      "questions": [
+        {
+          "question": "Q229. Frost's theory is called a “mechanostat” theory. Why do you think it is called that? (HINT: what is the “stat” referring to?)",
+          "answer": "It is called “mechanostat” because the bone is trying to maintain a homeostatic level of bone strength (-0.5 pt if homeostasis isn't explicitly mentioned, but it's implied)"
+        },
+        {
+          "question": "Q230. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q231. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q232. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "-"
+        },
+        {
+          "question": "Q233. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "-"
+        },
+        {
+          "question": "Q234. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q235. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "-"
+        },
+        {
+          "question": "Q236. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "+"
+        },
+        {
+          "question": "Q237. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q238. Does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither? (Positive/Negative/Both/Neither)",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q239. In this model, the set point and comparator are in the same cells. Which cells are these?",
+          "answer": "Osteocytes"
+        },
+        {
+          "question": "Q240. What role does leptin play in regards to appetite? (Increase/Decrease/None)",
+          "answer": "Decrease"
+        },
+        {
+          "question": "Q241. What role does the ventral medial hypothalamus play in regards to appetite? (Increase/Decrease/None)",
+          "answer": "Decrease"
+        },
+        {
+          "question": "Q242. Do you expect ob/ob mice (as described in class) to have increased or decreased bone density relative to controls? (Increased/Decreased)",
+          "answer": "Increased (decreased also accepted under certain conditions)"
+        },
+        {
+          "question": "Q243. Explain your response to the previous question. In your explanation, please describe the deficit in ob/ob mice and the neural pathway beginning with that deficit that explains your response.",
+          "answer": "Ob/ob mice do not produce leptin. Two possible answers from here (either received full credit): 1) Leptin no longer inhibits serotonergic neurons which increase activation of VMH via an excitatory synapse; Increased VMH activity stimulates osteoblasts; Osteoblasts increase bone formation. ALTERNATIVELY, 2) Leptin no longer inhibits serotonergic neurons. These neurons, no longer inhibited by leptin, decrease activation of VMH via an inhibitory synapse; Decreased VMH activity results in decreased osteoblast activity; Decreased osteoblast activity decreases bone formation."
+        },
+        {
+          "question": "Q244. Describe what you would expect in terms of bone density if you created parabiotic mice using one ob/ob mouse and one control mouse. In your response, explain why you expect to observe this.",
+          "answer": "Both parabiotic mice would have normal bone density. Leptin circulating in the blood of the ob/ob mouse will rescue the leptin deficiency and restore the inhibition of the pathway. This leptin comes from the normal mouse (i.e. the ob/ob mouse does not begin producing leptin)."
+        }
+      ]
+    },
+    {
+      "title": "Feeding Behavior 2 Taken from Exam 3, 2018",
+      "instructions": "As we discussed in class, feeding behavior is quite complex, and there is no easy answer when it comes to obesity. One reason for this is that there are a multitude of other molecules involved in the feeding circuitry. In this question, we are going to elaborate on the operational model for feeding to understand how some of these molecules are involved. To understand this model, you will need to incorporate what you already know about feeding with some additional information (model originally from Mutch and Clément, PLOS Genetics, 2006). Leptin (along with other signaling models, not pictured in Figure 1) act on several neuron types including proopiomelanocortin (POMC) neurons, neuropeptide Y (NPY) neurons, and neurons expressing agouti-related protein (AGRP). The POMC neurons are activated by leptin and produce αMSH, which activates the MC4R receptor. Activation of MC4R acts as a satiety signal. NPY and AGRP are orexigenic molecules. Recent research (Ghamari-Langroudi et al., Science Advances, 2018) has shown that αMSH, acting through a different receptor (MC3R) can have another role in feeding regulation. Figure 2 shows an experiment very similar to one we saw in class. “Chow” refers to times when the animal had free access to as much chow as it desired. MC3R KO (knock-out) refers to mice that have been genetically engineered such that they do not have the MC3R receptor. WT refers to mice who have not been genetically manipulated (wild-type).",
+      "figure": "figure_23.png, figure_24.png, figure_25.png",
+      "questions": [
+        {
+          "question": "Q245. Fill in the correct sign in the operational model at the location indicated (+ or -): A",
+          "answer": "-"
+        },
+        {
+          "question": "Q246. Fill in the correct sign in the operational model at the location indicated (+ or -): B",
+          "answer": "+"
+        },
+        {
+          "question": "Q247. Fill in the correct sign in the operational model at the location indicated (+ or -): C",
+          "answer": "+"
+        },
+        {
+          "question": "Q248. Fill in the correct sign in the operational model at the location indicated (+ or -): D",
+          "answer": "+"
+        },
+        {
+          "question": "Q249. Fill in the correct sign in the operational model at the location indicated (+ or -): E",
+          "answer": "-"
+        },
+        {
+          "question": "Q250. Fill in the correct sign in the operational model at the location indicated (+ or -): F",
+          "answer": "+"
+        },
+        {
+          "question": "Q251. Fill in the correct sign in the operational model at the location indicated (+ or -): G",
+          "answer": "-"
+        },
+        {
+          "question": "Q252. Fill in the correct sign in the operational model at the location indicated (+ or -): H",
+          "answer": "-"
+        },
+        {
+          "question": "Q253. Fill in the correct sign in the operational model at the location indicated (+ or -): I",
+          "answer": "+"
+        },
+        {
+          "question": "Q254. Fill in the correct sign in the operational model at the location indicated (+ or -): J",
+          "answer": "+"
+        },
+        {
+          "question": "Q255. Fill in the correct sign in the operational model at the location indicated (+ or -): K",
+          "answer": "-"
+        },
+        {
+          "question": "Q256. Does this operational model contain a positive feedback loop, a negative feedback loop, both, or neither? (Positive/Negative/Both/Neither)",
+          "answer": "Negative"
+        },
+        {
+          "question": "Q257. Based on this model, is αMSH also orexigenic, or is it anorectic?",
+          "answer": "Anorectic/Anorexigenic"
+        },
+        {
+          "question": "Q258. Based on what you learned in class, in which part of the brain do you expect to find the POMC, NPY and AGRP neurons?",
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "Q259. Describe the experiment that led to the data shown in Figure 2.",
+          "answer": "WT and MC3R KO animals were weighed while on a calorie restricted diet, given free access to food, given a high fat diet, and then given free access to food."
+        },
+        {
+          "question": "Q260. Identify what you see in Figure 2. Be sure to describe both the WT and KO data during each phase of the experiment. Please include any differences between the WT and KO groups.",
+          "answer": "a. Both groups lose weight throughout the time on the calorie restriction diet, with the KOs losing slightly more weight. b. Both groups gain weight and then stabilize under the first free eating condition. The WT animals stabilize at a set point slightly above the starting weight and the KOs stabilize to a set point slightly below. c. Both groups gain weight throughout the high fat diet with the KOs gaining more weight. d. Both groups lose weight under the second free eating condition, with the KOs losing more weight."
+        },
+        {
+          "question": "Q261. Interpret the data in Figure 2 by drawing a conclusion regarding the role of αMSH acting through the MC3R receptor.",
+          "answer": "In the absence of MC3R receptors, we see greater deviations – both larger deviations from the set point weight and a difference of the set point weight after various diets, suggesting that aMSH acting through the MC3R may be important in setting and maintaining the set point."
+        },
+        {
+          "question": "Q262. On the axes provided below (x axis = day, y axis = weight), use a solid line to indicate the data you would expect from an ob/ob mouse, and use a dotted line to indicate the data you would expect from an MC4R KO (no functional MC4R) mouse (based on the operational model in Figure 1).",
+          "answer": "0.5 pts for each curve in each segment, lines vs curves don't matter, just the trend, both cases should be the same"
+        }
+      ]
+    }
+  ]
+}
