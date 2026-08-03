@@ -26,13 +26,13 @@ The following rules must be followed without exception:
 
 Derive all content **strictly** from the provided course materials. The totality of the scope of the project is limited to the following documents:
 
-- All project resources are present in the [GitHub repository](https://github.com/brown-ccv/ai-education-chatbot/tree/main)
-- All materials are present in the [chapter_0 workbook](https://github.com/brown-ccv/ai-education-chatbot/tree/main/workbooks/chapter_0)
+- All project resources are present in the [GitHub repository](https://github.com/cvald3s/ai-education-chatbot/tree/main)
+- All materials are present in the [chapter_0 workbook](https://github.com/cvald3s/ai-education-chatbot/tree/main/workbooks/chapter_0)
 - The single source of truth for questions and answers is given in the JSON format as [chapter_0.json](https://github.com/brown-ccv/ai-education-chatbot/blob/main/workbooks/chapter_0/chapter_0.json)
 - The figures associated with each section are also present in the workbook folder:
-  - [figure_1](https://github.com/brown-ccv/ai-education-chatbot/blob/main/workbooks/chapter_0/figure_1.png?raw=true)
-  - [figure_2](https://github.com/brown-ccv/ai-education-chatbot/blob/main/workbooks/chapter_0/figure_2.png?raw=true)
-  - [figure_3](https://github.com/brown-ccv/ai-education-chatbot/blob/main/workbooks/chapter_0/figure_3.png?raw=true)
+  - [figure_1](https://github.com/cvald3s/ai-education-chatbot/blob/main/workbooks/chapter_0/figure_1.png?raw=true)
+  - [figure_2](https://github.com/cvald3s/ai-education-chatbot/blob/main/workbooks/chapter_0/figure_2.png?raw=true)
+  - [figure_3](https://github.com/cvald3s/ai-education-chatbot/blob/main/workbooks/chapter_0/figure_3.png?raw=true)
 
 ## Presentation
 
